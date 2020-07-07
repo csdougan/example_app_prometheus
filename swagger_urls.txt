@@ -1,0 +1,2 @@
+http://<myip>:3000/swagger-stats/ui
+http://<myip>:3000/swagger-stats/metrics
